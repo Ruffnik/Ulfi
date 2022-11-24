@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Ulfi.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="addfilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&amp;Add filter</Value>
+    </Setting>
+    <Setting Name="removefilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&amp;Remove filter</Value>
+    </Setting>
+    <Setting Name="editfilter" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&amp;Edit filter</Value>
+    </Setting>
+    <Setting Name="clearfilters" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">&amp;Clear filters</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
